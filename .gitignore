@@ -1,0 +1,26 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Test files (user video/srt samples)
+*.mkv
+*.mp4
+*.webm
+*.avi
+test/
+samples/
+*.OLD
+*.M2M
+
+# Build artifacts (none for this project, but reserve common ones)
+node_modules/
+dist/
+build/
+*.log
